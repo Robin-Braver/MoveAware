@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MA_MyArray&lt;T&gt;">
+    <Position X="1" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAEAIAAABAgAAAAAAAGAAEAAQACAAAgAAAAAAA=</HashCode>
+      <FileName>MA_MyArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyArray&lt;T&gt;">
+    <Position X="4.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAEAIAAABAgAAAAAAACAAEAAQACAAIgAAAAAAA=</HashCode>
+      <FileName>MyArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
